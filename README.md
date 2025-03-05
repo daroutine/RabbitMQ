@@ -65,4 +65,10 @@ $ rabbitmqadmin get queue='hello'
 
 ![Задание 3.3](https://github.com/daroutine/RabbitMQ/blob/main/3-2-7.jpg)`
 
+![Задание 3.3.a](https://github.com/daroutine/RabbitMQ/blob/main/3-2-10.jpg)`
+
 ![Задание 3.4](https://github.com/daroutine/RabbitMQ/blob/main/3-2-8.jpg)`
+
+![Задание 3.5](https://github.com/daroutine/RabbitMQ/blob/main/3-2-11.jpg)`
+
+![Задание 3.5](https://github.com/daroutine/RabbitMQ/blob/main/3-2-12.jpg)`
